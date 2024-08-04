@@ -1,6 +1,6 @@
 # CreativeHubKosovo - Frontend Landing Page
 
-My third project for Creative Hub Kosovo: a responsive landing page built with HTML, CSS, and JavaScript.
+My third project for Creative Hub Kosovo: a responsive landing page for Frontend Academy built with HTML, CSS, and JavaScript.
 
 ## Features
 
