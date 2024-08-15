@@ -16,6 +16,10 @@ My third project for Creative Hub Kosovo: a responsive landing page for Frontend
 - JavaScript
 - Glide JS
 
+## Live Preview
+
+https://creativehubkos.com/front-end/
+
 ## How to Run
 
 1. Clone the repository:
